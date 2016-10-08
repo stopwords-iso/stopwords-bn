@@ -1,0 +1,21 @@
+{
+  "name": "stopwords-bn",
+  "description": "The most comprehensive collection of stopwords for the bengali language.",
+  "keywords": [
+    "bengali",
+    "stopwords",
+    "stop words"
+  ],
+  "homepage": "https://github.com/stopwords-iso/stopwords-bn",
+  "authors": [
+    "Gene Diaz <genediazjr@gmail.com>"
+  ],
+  "license": "MIT",
+  "main": "stopwords-bn.json",
+  "ignore": [
+    "**/.*",
+    "raw",
+    "node_modules",
+    "bower_components"
+  ]
+}
